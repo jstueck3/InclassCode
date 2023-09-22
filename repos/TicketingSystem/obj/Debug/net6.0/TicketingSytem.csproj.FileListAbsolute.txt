@@ -1,0 +1,5 @@
+C:\Users\Josh Stueck\Downloads\sample(2)\sample\src\main\java\us\mattgreen\TicketingSytem\obj\Debug\net6.0\TicketingSytem.csproj.AssemblyReference.cache
+C:\Users\Josh Stueck\Downloads\sample(2)\sample\src\main\java\us\mattgreen\TicketingSytem\obj\Debug\net6.0\TicketingSytem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh Stueck\Downloads\sample(2)\sample\src\main\java\us\mattgreen\TicketingSytem\obj\Debug\net6.0\TicketingSytem.AssemblyInfoInputs.cache
+C:\Users\Josh Stueck\Downloads\sample(2)\sample\src\main\java\us\mattgreen\TicketingSytem\obj\Debug\net6.0\TicketingSytem.AssemblyInfo.cs
+C:\Users\Josh Stueck\Downloads\sample(2)\sample\src\main\java\us\mattgreen\TicketingSytem\obj\Debug\net6.0\TicketingSytem.csproj.CoreCompileInputs.cache
